@@ -1,0 +1,4 @@
+[[start]]
+{"type": "send", "datetime": "2023-05-18 23:11:17", "msg": "hhhh", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-18 23:11:21", "msg": "你好呀", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-18 23:11:27", "msg": "今天天气不错", "msg_type": "train"}

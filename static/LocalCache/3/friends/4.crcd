@@ -1,0 +1,6 @@
+[[start]]
+{"type": "get", "from_uid": 4, "datetime": "2023-05-19 14:00:49", "msg": "hhh", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-19 14:01:06", "msg": "[吐]", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-19 14:01:11", "msg": "C:/Users/asus/Pictures/Saved Pictures/u=3264362295,644793086&fm=26&gp=0.jpg", "msg_type": "file"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-19 14:07:03", "msg": "[呆]", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-19 14:07:06", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/3/files/timg.jpg", "msg_type": "file"}

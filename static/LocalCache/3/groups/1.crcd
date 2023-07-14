@@ -1,0 +1,7 @@
+[[start]]
+{"type": "send", "datetime": "2023-05-15 21:42:44", "msg": "sss", "msg_type": "train"}
+{"type": "send", "datetime": "2023-06-03 20:20:19", "msg": "你好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-06-03 20:20:21", "msg": "哈哈哈哈哈", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-06-03 20:20:27", "msg": "hfut", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-06-03 20:20:32", "msg": "[吓]", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-06-03 20:20:40", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/3/files/diagram.png", "msg_type": "file"}

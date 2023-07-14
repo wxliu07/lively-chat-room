@@ -1,0 +1,16 @@
+[[start]]
+{"type": "get", "from_uid": 2, "datetime": "2023-05-09 16:57:09", "msg": "您好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-09 16:57:29", "msg": "niyehao", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-09 16:57:34", "msg": "C:/Users/asus/Pictures/Saved Pictures/timg.jpg", "msg_type": "file"}
+{"type": "send", "datetime": "2023-05-09 16:57:53", "msg": "[翻白眼]", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-09 16:58:08", "msg": "nih", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-09 16:58:15", "msg": "1111", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-09 16:58:17", "msg": "22222", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-14 20:33:25", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/1/files/守护先锋介绍视频.mp4", "msg_type": "file"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-14 20:34:54", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/1/files/2016年C类初赛.pdf", "msg_type": "file"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-14 20:35:21", "msg": "哈哈哈哈", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-14 20:35:25", "msg": "你好啊", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-14 20:35:52", "msg": "[滑稽][生气][干杯][大哭][歪嘴][给心心]", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-14 20:36:06", "msg": "今天天气好好", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-14 20:36:09", "msg": "适合去运动", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-14 20:36:49", "msg": "ss", "msg_type": "train"}

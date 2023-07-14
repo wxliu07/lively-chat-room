@@ -1,0 +1,21 @@
+[[start]]
+{"type": "get", "from_uid": 1, "datetime": "2023-05-09 16:58:44", "msg": "你好", "msg_type": "train"}
+{"type": "get", "from_uid": 1, "datetime": "2023-05-09 16:58:49", "msg": "hello", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-09 16:58:54", "msg": "下午好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-09 16:58:58", "msg": "16点58分", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-09 16:59:37", "msg": "2023年n", "msg_type": "train"}
+{"type": "get", "from_uid": 1, "datetime": "2023-05-09 16:59:43", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/2/files/u=3264362295,644793086&fm=26&gp=0.jpg", "msg_type": "file"}
+{"type": "send", "datetime": "2023-05-14 20:45:58", "msg": "[呆][呲牙]", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:46:03", "msg": "[2021][呆][惊讶]", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:46:09", "msg": "[嫌弃][抠鼻][滑稽][歪嘴]", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:46:12", "msg": "hhhhhh", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:46:19", "msg": "大家好", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-15 21:42:44", "msg": "sss", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-15 21:47:55", "msg": "ss", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-15 21:48:03", "msg": "[墨镜]", "msg_type": "train"}
+{"type": "get", "from_uid": 1, "datetime": "2023-05-15 21:52:55", "msg": "hhhhh", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-06-03 20:20:19", "msg": "你好", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-06-03 20:20:21", "msg": "哈哈哈哈哈", "msg_type": "train"}
+{"type": "send", "datetime": "2023-06-03 20:20:27", "msg": "hfut", "msg_type": "train"}
+{"type": "send", "datetime": "2023-06-03 20:20:32", "msg": "[吓]", "msg_type": "train"}
+{"type": "send", "datetime": "2023-06-03 20:20:40", "msg": "C:/Users/asus/Desktop/diagram.png", "msg_type": "file"}

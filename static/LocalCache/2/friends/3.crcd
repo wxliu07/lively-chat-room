@@ -1,0 +1,39 @@
+[[start]]
+{"type": "get", "from_uid": 3, "datetime": "2023-05-14 20:39:05", "msg": "sss", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-14 20:39:12", "msg": "[嘟嘟][抠鼻][高兴][W-哈哈][墨镜]", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:40:22", "msg": "sss", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:40:27", "msg": "I love", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:40:31", "msg": "I love", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:40:37", "msg": "L love you", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-14 20:40:40", "msg": "hhhh", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-14 20:40:47", "msg": "[呲牙][呆][呆]", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-14 20:41:00", "msg": "[哈欠][2021][拥抱][哈欠][抓狂]", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-15 21:42:54", "msg": "[吃瓜]", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-15 21:43:00", "msg": "ssss", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-15 21:43:02", "msg": "sss", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-15 21:43:02", "msg": "ss", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-15 21:43:03", "msg": "ss", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-15 21:43:04", "msg": "s", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-15 21:43:10", "msg": "哈哈哈哈", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-15 21:43:19", "msg": "你好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-15 21:43:29", "msg": "你好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-15 21:43:31", "msg": "你好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-15 21:43:35", "msg": "你好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-16 19:47:19", "msg": "C:/Users/asus/Pictures/Saved Pictures/u=3264362295,644793086&fm=26&gp=0.jpg", "msg_type": "file"}
+{"type": "send", "datetime": "2023-05-16 19:47:29", "msg": "hello", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-16 20:01:06", "msg": "nihao", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-16 20:02:16", "msg": "[吃瓜]", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-18 22:54:24", "msg": "你好呀", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-18 22:55:29", "msg": "hhh4", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-18 23:00:24", "msg": "hello", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-18 23:00:29", "msg": "你好呀", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-18 23:00:33", "msg": "hhhhh", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-18 23:01:20", "msg": "今天天气好好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-18 23:05:42", "msg": "hello", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-18 23:05:46", "msg": "你好呀", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-18 23:05:53", "msg": "今天天气好好", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-18 23:06:03", "msg": "哈哈哈哈", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-18 23:08:34", "msg": "今天天气不错", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-18 23:08:40", "msg": "你觉得如何", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-18 23:08:43", "msg": "哈哈哈哈", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-18 23:08:47", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/2/files/u=3264362295,644793086&fm=26&gp=0（1）.jpg", "msg_type": "file"}

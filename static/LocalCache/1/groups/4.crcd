@@ -1,0 +1,16 @@
+[[start]]
+{"type": "send", "datetime": "2023-05-13 20:06:12", "msg": "大家好", "msg_type": "train"}
+{"type": "send", "datetime": "2023-05-13 20:07:03", "msg": "今天晚上吃什么", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-13 20:07:14", "msg": "你觉得吃什么好", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:07:37", "msg": "我觉得要不黄焖鸡吧", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:07:42", "msg": "[doge]", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:07:54", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/1/files/相关系数热力图.png", "msg_type": "file"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:08:05", "msg": "大家觉得怎么样", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:08:20", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/1/files/相关系数热力图（1）.png", "msg_type": "file"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:08:36", "msg": "hhhhh", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:08:42", "msg": "aaaaa", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:08:48", "msg": "[怪我咯]", "msg_type": "train"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:09:03", "msg": "F:\\Python_Study\\multiplayer-chat-room-master/static/LocalCache/1/files/04.csv", "msg_type": "file"}
+{"type": "get", "from_uid": 4, "datetime": "2023-05-13 20:09:19", "msg": "今天天气好", "msg_type": "train"}
+{"type": "get", "from_uid": 3, "datetime": "2023-05-13 20:09:28", "msg": "我也觉得是这样", "msg_type": "train"}
+{"type": "get", "from_uid": 2, "datetime": "2023-05-13 20:09:41", "msg": "臣附议", "msg_type": "train"}
